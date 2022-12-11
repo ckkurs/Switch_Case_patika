@@ -1,0 +1,16 @@
+C:\Users\Cem\Desktop\C#\Switch_Case_patika\bin\Debug\net5.0\Switch_Case_patika.exe
+C:\Users\Cem\Desktop\C#\Switch_Case_patika\bin\Debug\net5.0\Switch_Case_patika.deps.json
+C:\Users\Cem\Desktop\C#\Switch_Case_patika\bin\Debug\net5.0\Switch_Case_patika.runtimeconfig.json
+C:\Users\Cem\Desktop\C#\Switch_Case_patika\bin\Debug\net5.0\Switch_Case_patika.runtimeconfig.dev.json
+C:\Users\Cem\Desktop\C#\Switch_Case_patika\bin\Debug\net5.0\Switch_Case_patika.dll
+C:\Users\Cem\Desktop\C#\Switch_Case_patika\bin\Debug\net5.0\Switch_Case_patika.pdb
+C:\Users\Cem\Desktop\C#\Switch_Case_patika\obj\Debug\net5.0\Switch_Case_patika.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\C#\Switch_Case_patika\obj\Debug\net5.0\Switch_Case_patika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\C#\Switch_Case_patika\obj\Debug\net5.0\Switch_Case_patika.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\C#\Switch_Case_patika\obj\Debug\net5.0\Switch_Case_patika.AssemblyInfo.cs
+C:\Users\Cem\Desktop\C#\Switch_Case_patika\obj\Debug\net5.0\Switch_Case_patika.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\C#\Switch_Case_patika\obj\Debug\net5.0\Switch_Case_patika.dll
+C:\Users\Cem\Desktop\C#\Switch_Case_patika\obj\Debug\net5.0\refint\Switch_Case_patika.dll
+C:\Users\Cem\Desktop\C#\Switch_Case_patika\obj\Debug\net5.0\Switch_Case_patika.pdb
+C:\Users\Cem\Desktop\C#\Switch_Case_patika\obj\Debug\net5.0\Switch_Case_patika.genruntimeconfig.cache
+C:\Users\Cem\Desktop\C#\Switch_Case_patika\obj\Debug\net5.0\ref\Switch_Case_patika.dll
